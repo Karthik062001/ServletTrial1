@@ -1,0 +1,10 @@
+2025-06-06 15:42:11,942 - com.learn.log4j.Log4jTest -[process] -(WARN) - This is a warning message. - 
+2025-06-06 15:42:11,945 - com.learn.log4j.Log4jTest -[process] -(DEBUG) - This is a debug message. - 
+2025-06-06 15:42:11,945 - com.learn.log4j.Log4jTest -[process] -(FATAL) - This is a fatal message. - 
+2025-06-06 15:42:11,945 - com.learn.log4j.Log4jTest -[process] -(INFO) - Application finished. - 
+2025-06-06 15:42:11,945 - com.learn.log4j.Log4jTest -[process] -(ERROR) - An error occurred:  - 
+2025-06-06 17:14:01,630 - com.learn.log4j.Log4jTest -[process] -(WARN) - This is a warning message. - 
+2025-06-06 17:14:01,636 - com.learn.log4j.Log4jTest -[process] -(DEBUG) - This is a debug message. - 
+2025-06-06 17:14:01,636 - com.learn.log4j.Log4jTest -[process] -(FATAL) - This is a fatal message. - 
+2025-06-06 17:14:01,636 - com.learn.log4j.Log4jTest -[process] -(INFO) - Application finished. - 
+2025-06-06 17:14:01,637 - com.learn.log4j.Log4jTest -[process] -(ERROR) - An error occurred:  - 
